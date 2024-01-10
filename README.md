@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpachani&label=Profile%20views&color=0e75b6&style=flat" alt="harshpachani" /> </p>
 
-- 🔭 I’m currently working on [Fullstack Todo app](https://github.com/HarshPachani/Todo-app-with-Auth)
+- 🔭 I’m currently Looking for Internship in Java OR Web Development
+- 🌱 I've completed one project on ReactJS [E-commerce App](https://github.com/HarshPachani/ReactJS-E-commerce) 
 
 - 🌱 I’m currently learning **React js**
 
